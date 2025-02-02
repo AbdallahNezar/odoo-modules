@@ -1,0 +1,5 @@
+.pos .product.marked-product {
+    background-color: rgba(255, 244, 230, 0.7) !important;
+    border: 2px solid #ffd700 !important;
+    box-shadow: 0 2px 8px rgba(255, 215, 0, 0.2) !important;
+}
