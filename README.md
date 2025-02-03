@@ -1,0 +1,1 @@
+pos_marked_products is a module to help any shop to mark some products in the POS , sometimes the product mean they are the Low cost product. and sometimes it mean they are the High priority Products to let the employee understand they should sell them ASAP.
